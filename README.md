@@ -17,3 +17,4 @@ To add an image:
 * Add images, for example, "images/category/image.png"
 * Commit and push the image
 * Add an image from a wiki page, the url based on above will be "wiki/images/category/image.png"
+* Make images as minimal as possible. Do not show the entire application window but instead just the relevant parts. Describe the menu navigation rather than displaying it. This will decrease the chances of the image becoming obsolete as navigation changes.
