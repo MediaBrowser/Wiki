@@ -1,4 +1,4 @@
-Wiki
+[Wiki](https://github.com/MediaBrowser/Wiki/wiki)
 ====
 
 Contains the Media Browser wiki
