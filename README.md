@@ -1,4 +1,4 @@
-[Wiki](https://github.com/MediaBrowser/Wiki/wiki)
+[Media Browser Wiki](https://github.com/MediaBrowser/Wiki/wiki)
 ====
 
  
