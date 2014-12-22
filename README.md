@@ -1,7 +1,7 @@
 [Media Browser Wiki](https://github.com/MediaBrowser/Wiki/wiki)
 ====
 
- 
+[Getting started](https://github.com/MediaBrowser/Wiki/wiki)
   
   
 
