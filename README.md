@@ -18,8 +18,6 @@ The wiki can be edited directly from the github website.
 Adding Images
 ====
 
-To add an image:
-
 * Clone https://github.com/MediaBrowser/Wiki.wiki.git
 * Add images, for example, "images/category/image.png"
 * Commit and push the image
