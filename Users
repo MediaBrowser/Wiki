@@ -1,4 +1,5 @@
-###User Accounts
+User Accounts
+====
 
 MediaBrowser allows for multiple user accounts, each with their own access rights and privileges. These users will have separate watched states for your media, and depending on the access you allow them, may or may not be able to "manage" the server. You can create user accounts for children, and set the parental controls to restrict content of an Adult rating. Perhaps you have media content such as 3D in a separate library, and wish to "hide" this content from a user account that doesn't have access to a 3D display. User accounts allow you to determine what a user can see and how they can control it. Note that you should always have one user account that is allowed to manage the server.
 
