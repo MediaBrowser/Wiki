@@ -1,5 +1,5 @@
 # Emby Theater for Windows:
-* Emby Theater for Windows is a Windows Modern app, built for Windows 7, 8 and 10 and Vista. Emby Theater can be download from  here: [Emby](http://emby.media/emby-theater.html)
+* Emby Theater for Windows is a Windows Modern app, built for Windows 7, 8 and 10 and Vista. Emby Theater can be download from  here: [Emby Theater](http://emby.media/emby-theater.html)
 
 * Emby Theater for Windows can be used alongside remote control from either your phone or web browser so that Emby Theater is ideal for an HTPC connected to your media center. 
 
