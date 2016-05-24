@@ -4,7 +4,7 @@
 ######To be able to take full advantage of all that Emby Theater for Windows has to offer you will need an valid Emby Premiere key, read more here: [Emby Premiere](https://emby.media/premiere.html) 
 
 * Emby Theater for Windows can be used alongside remote control from either your phone or web browser so that Emby Theater is ideal for an HTPC connected to your media center.
-* Emby Theater for Windows can play just about any type of media thanks to Emby Server transcoding, however since this is on an Windows platform chances are you will be using direct play most of the time. If you would like to learn how to prepare your media for Direct Play, read below.
+* Emby Theater for Windows can play just about any type of media thanks to Emby Server transcoding, however since this is on a Windows platform chances are you will be using direct play most of the time. If you would like to learn how to prepare your media for Direct Play, read below.
 
 # Setup Guide
 * Install the app using one of the above methods, the app will then automatically find your local Emby Server(s). If it cannot find your server or you are attempting to connect to a remote server, the app will present you with options to connect manually or use Emby Connect.
